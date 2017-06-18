@@ -1,0 +1,12 @@
+begin
+ print "ghsghhhs"
+ integer X,XS
+ real A,D
+ string X,C
+ X:=23
+ Y:=2323
+ s:=3.23e-9
+ Z:="SDSD"
+ for I:=0 to 5
+    print "ddsss [X]" 
+end
